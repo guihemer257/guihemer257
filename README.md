@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme 👋
 
-<!--
-**guihemer257/guihemer257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de programação e estou em busca de **estágio** e de **projetos freelance**.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML · CSS · JavaScript · Git · GitHub · Vercel
+
+## Projeto em destaque
+
+**Site institucional para uma escola**: site responsivo, com formulário de contato integrado ao WhatsApp. A versão pública usa marca e imagens fictícias.
+
+[Ver código](https://github.com/guihemer257/site-escola-demo)
